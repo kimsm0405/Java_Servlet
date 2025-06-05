@@ -1,4 +1,6 @@
 # JAVA Servlet Study Repository 🌐  
+------------------------------------------------------------
+![js](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 이 레포지토리는 Java Servlet을 활용하여 웹 애플리케이션을 개발하는 방법을 학습하는 공간입니다. 서버 측 프로그래밍을 익히고, HTTP 요청 및 응답을 처리하는 원리를 배우며, 실무에서 활용할 수 있는 기술을 익히는 것을 목표로 합니다.  
 
