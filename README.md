@@ -1,4 +1,3 @@
-# Java_Servlet
 # JAVA Servlet Study Repository 🌐  
 
 이 레포지토리는 Java Servlet을 활용하여 웹 애플리케이션을 개발하는 방법을 학습하는 공간입니다. 서버 측 프로그래밍을 익히고, HTTP 요청 및 응답을 처리하는 원리를 배우며, 실무에서 활용할 수 있는 기술을 익히는 것을 목표로 합니다.  
@@ -22,10 +21,11 @@
 ## 내용 ✍️  
 📁 Java Servlet Study  
 
-- **1 Servlet 개요 및 기초**  
-- **2 Servlet 생명 주기 및 매핑**  
-- **3 HTTP 요청과 응답 처리**  
-- **4 세션과 쿠키 관리**  
-- **5 필터와 리스너**  
-- **6 JSP와의 연계 및 MVC 패턴 적용**  
-- **7 Spring Boot 기반 Servlet 활용**  
+pro05 : 서블릿 개요 및 구조
+
+pro06 : 서블릿 기초 (form 태그, GET 방식 & POST 방식 등)
+
+pro07 : 서블릿 비즈니스 로직 처리 (DataSource 이용)
+
+... 추가 예정
+
