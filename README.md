@@ -29,5 +29,7 @@ pro06 : 서블릿 기초 (form 태그, GET 방식 & POST 방식 등)
 
 pro07 : 서블릿 비즈니스 로직 처리 (DataSource 이용)
 
-... 추가 예정
+pro08 : 서블릿 확장 API
+
+pro09 : 쿠키와 세션
 
