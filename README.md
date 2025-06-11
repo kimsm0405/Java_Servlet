@@ -21,15 +21,15 @@
 - **Spring과의 연계**: Spring Framework의 기본 개념을 Servlet 기반에서 접목하기  
 
 ## 내용 ✍️  
-📁 Java Servlet Study  
+[📁 Java Servlet Study  ](https://github.com/kimsm0405/Java_Servlet/tree/main/Java_Servlet%20Study)
 
-pro05 : 서블릿 개요 및 구조
+[pro05 : 서블릿 개요 및 구조](https://github.com/kimsm0405/Java_Servlet/tree/main/Java_Servlet%20Study/pro05)
 
-pro06 : 서블릿 기초 (form 태그, GET 방식 & POST 방식 등)
+[pro06 : 서블릿 기초 (form 태그, GET 방식 & POST 방식 등)](https://github.com/kimsm0405/Java_Servlet/tree/main/Java_Servlet%20Study/pro06)
 
-pro07 : 서블릿 비즈니스 로직 처리 (DataSource 이용)
+[pro07 : 서블릿 비즈니스 로직 처리 (DataSource 이용)](https://github.com/kimsm0405/Java_Servlet/tree/main/Java_Servlet%20Study/pro07)
 
-pro08 : 서블릿 확장 API
+[pro08 : 서블릿 확장 API](https://github.com/kimsm0405/Java_Servlet/tree/main/Java_Servlet%20Study/pro08)
 
-pro09 : 쿠키와 세션
+[pro09 : 쿠키와 세션](https://github.com/kimsm0405/Java_Servlet/tree/main/Java_Servlet%20Study/pro09)
 
